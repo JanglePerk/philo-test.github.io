@@ -1,43 +1,34 @@
 <!DOCTYPE html>
 
-<!--
-
-ATTRIBUTION
-
-This file was adapted from https://github.com/milesmcc/whyprivacymatters/blob/master/_layouts/default.html,
-which was itself adapted from https://github.com/pages-themes/minimal
-
--->
-
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="utf-8">
+<head>
+  <meta charset="utf-8">
 
-    {% seo %}
+  {% seo %}
 
-    <meta name="keywords" content="computer science, open source" />
-    <meta name="robots" content="index,follow" />
-
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision
-	       | relative_url }}">
-    <link rel="stylesheet" href="/assets/base.css">
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision
+       | relative_url }}">
+  <link rel="stylesheet" href="/assets/base.css">
+  <meta name="viewport" content="width=device-width">
+  <!--[if lt IE 9]>
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ '/' | relative_url }}" style="display: inline;">CSC630</a>: The Open Source Movement</h1>
+        <h1><a href="{{ '/' | relative_url }}" style="display: inline;">Philo@PA</a>: The Philomathean Society</h1>
         <hr>
-        <p>Course materials and resources for CSC630 at Phillips Academy Andover (Winter 2017).</p>
+        <p>A friendly guide to parliamentary extemporaneous debate at Phillips Academy.</p>
         <hr>
         <p>
-          <a href="{{ '/course/ASSIGNMENTS.html' | relative_url }}">Assignments</a> |
-          <a href="{{ '/course/ANNOUNCEMENTS.html' | relative_url}}">Announcements</a>
+          <a href="{{ '/' | relative_url }}">Home</a> |
+          <a href="{{ '/andoverphilo/curriculum.html' | relative_url}}">Curriculum</a>
+          <a href="{{ '/andoverphilo/drills.html' | relative_url}}">Drills</a>
+          <a href="{{ '/andoverphilo/drills.html' | relative_url}}">Videos</a>
+          <a href="{{ '/andoverphilo/debate-format.html' | relative_url}}">Debate Format</a>
+          <a href="{{ '/andoverphilo/resources.html' | relative_url}}">Resources</a>
         </p>
-
       </header>
       <section>
 
@@ -45,7 +36,7 @@ which was itself adapted from https://github.com/pages-themes/minimal
 
       </section>
       <footer>
-        <p>This website is a collaborative project maintained by the students in CSC630.</p>
+        <p>This website is maintained by the board of the Philomathean Society at Phillips Academy.</p>
         <p>Hosted on GitHub Pages.</p>
         {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View on GitHub <small>{{ github_name }}</small></a></p>
