@@ -7,7 +7,7 @@ Welcome to the new website for the Philomathean Society! This website is a resou
 * [Significance](/pages/curriculum/case-construction/significance.md)
 * [Impact Calculus](/pages/curriculum/case-construction/impact-calculus.md)
 
-## [Refutation](/pages/curriculum/refutation-and-rebuttal.md)
+## [Refutation and Rebuttal](/pages/curriculum/refutation-and-rebuttal.md)
 * [Using Your Case to Refute and Rebut](/pages/curriculum/refutation-and-rebuttal/using-your-case.md)
 * [Finding Points of Clash](/pages/curriculum/refutation-and-rebuttal/finding-points-of-clash.m)
 * [Attacking Their Logic](/pages/curriculum/refutation-and-rebuttal/attacking-their-logic.md)
