@@ -5,8 +5,8 @@ In order to effectively attack your opponent's points, you need to identify area
 **Example**
 
 <center><b>Your contentions</b>: marijuana is detrimental to health, expensive, and gateway drug.
-<b>Theirs</b>: marijuana is affordable, does not cause addiction, and has no proven harms.
-<b>Points of clash</b>: affordability, potential for future harm, and health effects.</center>
+<br><b>Theirs</b>: marijuana is affordable, does not cause addiction, and has no proven harms.
+<br><b>Points of clash</b>: affordability, potential for future harm, and health effects.</center>
 
 **Video**
 
