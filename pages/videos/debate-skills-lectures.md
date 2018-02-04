@@ -8,22 +8,22 @@ These videos are all very helpful for any people looking to advance their skills
 
 Generalized Intro to Debate + Making Arguments:
 
-* <<https://www.youtube.com/watch?v=4lgGZ1NFubw>
+* <https://www.youtube.com/watch?v=4lgGZ1NFubw>
 
 Crash Course Intro to Deductive / Inductive / Abductive Reasoning:
 
-* <<https://www.youtube.com/watch?v=NKEhdsnKKHs>
-* <<https://www.youtube.com/watch?v=-wrCpLJ1XAw>
+* <https://www.youtube.com/watch?v=NKEhdsnKKHs>
+* <https://www.youtube.com/watch?v=-wrCpLJ1XAw>
 
 POIs:
 
-* <<https://www.youtube.com/watch?v=PUf_gGLNnDc>
+* <https://www.youtube.com/watch?v=PUf_gGLNnDc>
 Tips for raising your speaker points:
-* <<https://www.youtube.com/watch?v=lLhjORZWZLY>
+* <https://www.youtube.com/watch?v=lLhjORZWZLY>
 
 Note-taking/flowing debate rounds (skip to 1:00) (meant for policy debate but can be useful for parliamentary debate too):
 
-* <<https://www.youtube.com/watch?v=Rf6HBKgkSAM>
+* <https://www.youtube.com/watch?v=Rf6HBKgkSAM>
 
 Argument Building (this video is really slow and just shows ARE but without the IS, but good review):
 
