@@ -4,4 +4,4 @@ Watching other people debate can often be more helpful than reading walls of tex
 
 [Debate Skills Lectures](videos/debate-skills-lectures.md)
 
-[College Parliamentary Debate Rounds](videos/colligiate-parliamentary-debate-rounds.md)
+[Collegiate Parliamentary Debate Rounds](videos/collegiate-parliamentary-debate-rounds.md)
