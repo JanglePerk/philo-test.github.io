@@ -21,7 +21,7 @@ A site with a number of different debate rounds hosted on it, feature to filter 
 
 <https://debatevid.io/>
 
-##The Rounds
+## The Rounds
 
 Note: These are debate rounds, mostly from the WUDC. Below each link is the motion for the debate. "OG" stands for "Opening Government," "OO" stands for "Opening Opposition," "CG" stands for "Closing Government," and "CO" stands for "Closing Opposition."
 
