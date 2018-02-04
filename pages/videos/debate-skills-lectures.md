@@ -8,7 +8,7 @@ These videos are all very helpful for any people looking to advance their skills
 
 Generalized Intro to Debate + Making Arguments:
 
-* https://www.youtube.com/watch?v=4lgGZ1NFubw
+* <https://www.youtube.com/watch?v=4lgGZ1NFubw>
 
 Crash Course Intro to Deductive / Inductive / Abductive Reasoning:
 
